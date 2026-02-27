@@ -6,7 +6,7 @@
 
 QA Engineer. Main occupation - web application testing (front + back). 
 
-- 📫 Get in touch with me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/illia-alekseitsev-hurmaza-571b49201/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:az6216608@gmail.com)
+- 📫 Get in touch with me: [![LinkedIn Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/illia-alekseitsev-hurmaza-571b49201/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:az6216608@gmail.com)
 - 
 ---
 ### 🤝 Socials:
