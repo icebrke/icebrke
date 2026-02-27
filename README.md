@@ -6,8 +6,6 @@
 
 QA Engineer. Main occupation - web application testing (front + back). 
 
-- 📫 Get in touch with me: [![LinkedIn Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/illia-alekseitsev-hurmaza-571b49201/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:az6216608@gmail.com)
-- 
 ---
 ### 🤝 Socials:
 
@@ -16,7 +14,10 @@ QA Engineer. Main occupation - web application testing (front + back).
       <img src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" width="40" height="40" alt="X" />
     </a>
     <a href="https://t.me/liltallboi" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/illia-alekseitsev-hurmaza-571b49201/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn" />
     </a>
   </div>
 
